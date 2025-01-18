@@ -12,3 +12,4 @@
 /home/matheus/FormCI/obj/Debug/net8.0/FormCI.pdb
 /home/matheus/FormCI/obj/Debug/net8.0/FormCI.genruntimeconfig.cache
 /home/matheus/FormCI/obj/Debug/net8.0/ref/FormCI.dll
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.sourcelink.json

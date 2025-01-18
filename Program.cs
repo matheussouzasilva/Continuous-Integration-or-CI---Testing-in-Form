@@ -1,4 +1,5 @@
 ﻿using System;
+using Test;
 
 class Program
 {
@@ -9,9 +10,12 @@ class Program
         string name = GetName();
         int age = GetAge();
 
-        Console.WriteLine("\n=== Result ===");
+        Console.WriteLine("=== Result ===");
         Console.WriteLine($"Name: {name}");
         Console.WriteLine($"Age: {age}");
+
+        Console.WriteLine("=== Run Test ===");
+        ValidatorTests.RunTests();
     }
 
     static string GetName()
