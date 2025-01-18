@@ -1,0 +1,14 @@
+/home/matheus/FormCI/bin/Debug/net8.0/FormCI
+/home/matheus/FormCI/bin/Debug/net8.0/FormCI.deps.json
+/home/matheus/FormCI/bin/Debug/net8.0/FormCI.runtimeconfig.json
+/home/matheus/FormCI/bin/Debug/net8.0/FormCI.dll
+/home/matheus/FormCI/bin/Debug/net8.0/FormCI.pdb
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.AssemblyInfoInputs.cache
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.AssemblyInfo.cs
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.csproj.CoreCompileInputs.cache
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.dll
+/home/matheus/FormCI/obj/Debug/net8.0/refint/FormCI.dll
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.pdb
+/home/matheus/FormCI/obj/Debug/net8.0/FormCI.genruntimeconfig.cache
+/home/matheus/FormCI/obj/Debug/net8.0/ref/FormCI.dll
